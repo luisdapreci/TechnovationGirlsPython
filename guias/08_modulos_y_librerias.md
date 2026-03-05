@@ -306,4 +306,4 @@ Sigue escribiendo codigo. Cada programa que construyes, aunque sea pequeno, te h
 
 ---
 
-[Anterior: 07 — Entrada y salida](07_entrada_y_salida.md) | [Volver al inicio](../README.md)
+[Anterior: 07 — Entrada y salida](07_entrada_y_salida.md) | [Siguiente: 09 — Clases y Objetos](09_clases_y_objetos.md)
