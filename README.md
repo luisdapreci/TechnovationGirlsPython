@@ -6,13 +6,13 @@ Guias, tutoriales y ejercicios de Python para jovenes de 12 a 17 anos que partic
 
 ## Que encontraras aqui
 
-Este repositorio es un complemento practico al curriculo de Technovation Girls. Aqui aprenderas a programar en Python desde cero, con ejemplos y proyectos pensados para que puedas aplicar lo que aprendes directamente en tu proyecto de Technovation.
+Este repositorio es un complemento practico al curriculo de Technovation Girls. Aqui aprenderas a programar en Python desde cero hasta construir aplicaciones web reales, con ejemplos y proyectos pensados para que puedas aplicar lo que aprendes directamente en tu proyecto de Technovation.
 
-El contenido esta organizado en tres secciones:
+El contenido esta organizado en tres niveles progresivos:
 
-- **Guias** — explicaciones paso a paso de conceptos de Python
-- **Tutoriales** — proyectos guiados que combinan varios conceptos
-- **Ejercicios** — practica adicional para reforzar lo que aprendiste
+- **Nivel Basico** — fundamentos de Python: variables, condiciones, ciclos, funciones y archivos
+- **Nivel Intermedio** — programacion orientada a objetos, HTML, CSS y consumo de APIs
+- **Nivel Avanzado** — desarrollo web con FastAPI: servidor, rutas, plantillas y proyecto final
 
 ---
 
@@ -24,52 +24,80 @@ El contenido esta organizado en tres secciones:
 
 ---
 
-## Como esta organizado el repositorio
+## Contenido
+
+### Nivel Basico — Fundamentos de Python
+
+Las primeras 8 guias te dan todo lo que necesitas saber de Python antes de pasar al desarrollo web. No se necesita experiencia previa.
 
 ```
-TechnovationGirlsPython/
-|
-+-- guias/
-|   +-- 01_introduccion_a_python.md
-|   +-- 02_variables_y_tipos_de_datos.md
-|   +-- 03_condicionales.md
-|   +-- 04_ciclos.md
-|   +-- 05_funciones.md
-|   +-- 06_listas_y_diccionarios.md
-|   +-- 07_entrada_y_salida.md
-|   +-- 08_modulos_y_librerias.md
-|
-+-- tutoriales/
-|   +-- calculadora_simple/
-|   +-- encuesta_interactiva/
-|   +-- juego_de_adivinanza/
-|   +-- organizador_de_tareas/
-|
-+-- ejercicios/
-|   +-- nivel_1_basico/
-|   +-- nivel_2_intermedio/
-|   +-- nivel_3_avanzado/
-|
-+-- recursos/
-    +-- glosario.md
-    +-- como_instalar_python.md
-    +-- herramientas_utiles.md
+guias/
++-- 01_introduccion_a_python.md        # Que es Python, primer programa, entornos
++-- 02_variables_y_tipos_de_datos.md   # Variables, strings, numeros, input()
++-- 03_condicionales.md                # if / elif / else, operadores
++-- 04_ciclos.md                       # for, while, range(), break, continue
++-- 05_funciones.md                    # def, parametros, return, scope
++-- 06_listas_y_diccionarios.md        # Listas, dicts, estructuras de datos
++-- 07_entrada_y_salida.md             # Archivos, CSV, try/except
++-- 08_modulos_y_librerias.md          # import, pip, libreria estandar
 ```
 
-> El contenido se ira agregando poco a poco. Revisa regularmente para ver que hay nuevo.
+### Nivel Intermedio — Hacia el Desarrollo Web
+
+Aqui amplias tu conocimiento de Python e introduces los conceptos fundamentales de la web: HTML, CSS y como Python se comunica con servicios externos.
+
+```
+guias/
++-- 09_clases_y_objetos.md             # Programacion orientada a objetos, clases, metodos
++-- 10_html_basico.md                  # Estructura HTML, etiquetas, semantica
++-- 11_css_basico.md                   # Selectores, colores, tipografia, layout
++-- 12_formularios_html.md             # Inputs, validacion, envio de datos
++-- 13_http_y_la_web.md                # Como funciona internet, peticiones, respuestas
++-- 14_consumir_apis.md                # requests, JSON, APIs publicas
+```
+
+### Nivel Avanzado — Aplicaciones Web con FastAPI
+
+Con todo lo anterior puedes construir tu propia aplicacion web. Estas guias te llevan desde un servidor basico hasta una app completa con interfaz HTML/CSS y logica en Python.
+
+```
+guias/
++-- 15_introduccion_a_fastapi.md       # Primer servidor, instalacion, Uvicorn
++-- 16_rutas_y_metodos_http.md         # GET, POST, parametros, Pydantic
++-- 17_plantillas_con_jinja2.md        # HTML dinamico desde Python, Jinja2
++-- 18_formularios_con_fastapi.md      # Procesar datos de formularios HTML
++-- 19_proyecto_web_completo.md        # App funcional: FastAPI + HTML + CSS
+```
+
+### Recursos y apoyo
+
+```
+recursos/
++-- como_instalar_python.md            # Replit, Google Colab, VS Code, instalacion local
++-- glosario.md                        # Terminos clave explicados en espanol
++-- herramientas_utiles.md             # Extensiones, atajos y configuraciones recomendadas
+```
+
+> Las guias del Nivel Intermedio y Avanzado se iran publicando progresivamente. Las del Nivel Basico estan completas y disponibles ahora.
 
 ---
 
 ## Por donde empezar
 
-Si es tu primera vez programando, sigue este camino:
+**Si es tu primera vez programando:**
 
-1. Lee la guia **Introduccion a Python** en la carpeta `guias/`
-2. Instala Python en tu computadora siguiendo las instrucciones en `recursos/como_instalar_python.md`
-3. Completa los ejercicios de **Nivel 1** antes de pasar a los tutoriales
-4. Cuando te sientas lista, elige un tutorial y construye tu primer proyecto
+1. Elige tu entorno en [`recursos/como_instalar_python.md`](recursos/como_instalar_python.md) (Replit es lo mas rapido)
+2. Comienza con la [Guia 01 — Introduccion a Python](guias/01_introduccion_a_python.md)
+3. Sigue las guias del Nivel Basico en orden, del 01 al 08
+4. Cuando termines el Nivel Basico, continua con las guias del Nivel Intermedio
 
-Si ya tienes algo de experiencia, puedes saltar directamente a la seccion que te interese.
+**Si ya sabes Python pero quieres aprender desarrollo web:**
+
+- Salta directamente al [Nivel Intermedio](#nivel-intermedio--hacia-el-desarrollo-web) desde la guia 09
+
+**Si ya conoces HTML/CSS y quieres construir una app con Python:**
+
+- Ve directo al [Nivel Avanzado](#nivel-avanzado--aplicaciones-web-con-fastapi) desde la guia 15
 
 ---
 
@@ -94,8 +122,10 @@ En este repositorio encontraras ejercicios y proyectos que te ayudaran a:
 | VS Code | Editor de codigo recomendado | code.visualstudio.com |
 | Replit | Programar desde el navegador, sin instalar nada | replit.com |
 | Google Colab | Cuadernos interactivos en la nube | colab.research.google.com |
+| FastAPI | Framework para crear servidores web con Python | fastapi.tiangolo.com |
+| Jinja2 | Motor de plantillas HTML para FastAPI | incluido con FastAPI |
 
-Si no puedes instalar nada en tu computadora, puedes usar **Replit** o **Google Colab** directamente desde tu navegador.
+Si no puedes instalar nada en tu computadora, puedes usar **Replit** o **Google Colab** directamente desde tu navegador. Para el Nivel Avanzado con FastAPI, recomendamos tener Python instalado localmente o usar Replit.
 
 ---
 
