@@ -144,14 +144,24 @@ Cuando uses palabras que Python conoce (como `print`), asegurate de escribirlas 
 
 Tienes varias opciones segun lo que tengas disponible:
 
+| Opcion | Requiere instalacion | Requiere internet |
+|--------|---------------------|-------------------|
+| Replit | No | Si |
+| Google Colab | No | Si |
+| VS Code + Python | Si | Solo para instalar |
+
 ### Opcion 1 — Replit (desde el navegador, sin instalar nada)
-Entra a [replit.com](https://replit.com), crea una cuenta gratuita y abre un nuevo proyecto de Python. Es la forma mas rapida de empezar.
+Entra a [replit.com](https://replit.com), crea una cuenta gratuita y abre un nuevo proyecto de Python. Es la forma mas rapida de empezar. Veras el editor a la izquierda y la consola con los resultados a la derecha; el boton **Run** ejecuta tu codigo.
 
 ### Opcion 2 — Google Colab (cuadernos interactivos)
-Entra a [colab.research.google.com](https://colab.research.google.com). Necesitas una cuenta de Google. Puedes escribir codigo en "celdas" y ejecutarlo una por una. Es muy util para aprender porque puedes ver los resultados junto al codigo.
+Entra a [colab.research.google.com](https://colab.research.google.com). Necesitas una cuenta de Google. Escribe codigo en celdas y ejecuitalas con `Shift + Enter`. Los resultados aparecen justo debajo de cada celda, lo que es muy util para aprender paso a paso.
 
-### Opcion 3 — Python instalado en tu computadora
-Si quieres trabajar sin internet, puedes instalar Python en tu computadora. Consulta la guia `recursos/como_instalar_python.md` para instrucciones paso a paso.
+### Opcion 3 — VS Code + Python instalado en tu computadora
+Si quieres trabajar sin depender de internet y tener un entorno mas completo, instala Python y el editor VS Code. Para las instrucciones detalladas de instalacion en Windows, macOS y Linux, consulta:
+
+[Guia de instalacion completa](../recursos/como_instalar_python.md)
+
+> **Tip:** Si es tu primera vez, te recomendamos empezar con Replit o Google Colab. Cuando te sientas comoda con Python, puedes dar el salto a la instalacion local.
 
 ---
 
