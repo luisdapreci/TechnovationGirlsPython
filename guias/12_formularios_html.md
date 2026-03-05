@@ -4,5 +4,4 @@
 
 ---
 
-- Guia anterior: [Guia 11 — CSS Basico](11_css_basico.md)
-- Siguiente guia: [Guia 13 — HTTP y la Web](13_http_y_la_web.md)
+[Anterior: 11 — CSS Basico](11_css_basico.md) | [Siguiente: 13 — HTTP y la Web](13_http_y_la_web.md)

@@ -4,4 +4,4 @@
 
 ---
 
-- Guia anterior: [Guia 18 — Formularios con FastAPI](18_formularios_con_fastapi.md)
+[Anterior: 18 — Formularios con FastAPI](18_formularios_con_fastapi.md) | [Volver al inicio](../README.md)

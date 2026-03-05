@@ -4,5 +4,4 @@
 
 ---
 
-- Guia anterior: [Guia 09 — Clases y Objetos](09_clases_y_objetos.md)
-- Siguiente guia: [Guia 11 — CSS Basico](11_css_basico.md)
+[Anterior: 09 — Clases y Objetos](09_clases_y_objetos.md) | [Siguiente: 11 — CSS Basico](11_css_basico.md)

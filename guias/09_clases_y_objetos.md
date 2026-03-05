@@ -4,5 +4,4 @@
 
 ---
 
-- Guia anterior: [Guia 08 — Modulos y Librerias](08_modulos_y_librerias.md)
-- Siguiente guia: [Guia 10 — HTML Basico](10_html_basico.md)
+[Anterior: 08 — Modulos y librerias](08_modulos_y_librerias.md) | [Siguiente: 10 — HTML Basico](10_html_basico.md)

@@ -4,5 +4,4 @@
 
 ---
 
-- Guia anterior: [Guia 17 — Plantillas con Jinja2](17_plantillas_con_jinja2.md)
-- Siguiente guia: [Guia 19 — Proyecto Web Completo](19_proyecto_web_completo.md)
+[Anterior: 17 — Plantillas con Jinja2](17_plantillas_con_jinja2.md) | [Siguiente: 19 — Proyecto Web Completo](19_proyecto_web_completo.md)
