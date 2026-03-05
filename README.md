@@ -86,7 +86,7 @@ recursos/
 
 **Si es tu primera vez programando:**
 
-1. Elige tu entorno en [`Cómo Instalar Python`](recursos/como_instalar_python.md) (Replit es lo mas rapido)
+1. Elige tu entorno en [Como Instalar Python](recursos/como_instalar_python.md) (Replit es lo mas rapido)
 2. Comienza con la [Guia 01 — Introduccion a Python](guias/01_introduccion_a_python.md)
 3. Sigue las guias del Nivel Basico en orden, del 01 al 08
 4. Cuando termines el Nivel Basico, continua con las guias del Nivel Intermedio
