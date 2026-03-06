@@ -106,11 +106,11 @@ recursos/
 
 **Si ya sabes Python pero quieres aprender desarrollo web:**
 
-- Salta directamente al [Nivel Intermedio](#nivel-intermedio--desarrollo-web-html-css-y-apis) desde la guia 09
+- Salta directamente al [Guia 09 — Clases y Objetos](guias/09_clases_y_objetos.md) desde la guia 09
 
 **Si ya conoces HTML/CSS y quieres construir una app web con Python:**
 
-- Ve directo al [Nivel Avanzado](#nivel-avanzado--aplicaciones-web-completas-con-fastapi) desde la guia 15
+- Ve directo al [Guia 15 — Introducción a Fast API](guias/15_introduccion_a_fastapi.md) desde la guia 15
 
 ---
 
