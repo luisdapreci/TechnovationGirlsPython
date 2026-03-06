@@ -1,26 +1,26 @@
-# Python para Technovation Girls
+# Aplicaciones Web para Technovation Girls
 
-Guias, tutoriales y ejercicios de Python para jovenes de 12 a 17 anos que participan en el programa **Technovation Girls**.
+Guias, tutoriales y ejercicios para construir aplicaciones web reales, para jovenes de 12 a 17 anos que participan en el programa **Technovation Girls**.
 
 ---
 
 ## Que encontraras aqui
 
-Este repositorio es un complemento practico al curriculo de Technovation Girls. Aqui aprenderas a programar en Python desde cero hasta construir aplicaciones web reales, con ejemplos y proyectos pensados para que puedas aplicar lo que aprendes directamente en tu proyecto de Technovation.
+Este repositorio es un complemento practico al curriculo de Technovation Girls. Aqui aprenderas desde los fundamentos de Python hasta construir y desplegar aplicaciones web completas, con ejemplos y proyectos pensados para que puedas aplicar lo que aprendes directamente en tu proyecto de Technovation.
 
 El contenido esta organizado en tres niveles progresivos:
 
 - **Nivel Basico** — fundamentos de Python: variables, condiciones, ciclos, funciones y archivos
-- **Nivel Intermedio** — programacion orientada a objetos, HTML, CSS y consumo de APIs
-- **Nivel Avanzado** — desarrollo web con FastAPI: servidor, rutas, plantillas y proyecto final
+- **Nivel Intermedio** — HTML, CSS, formularios, APIs y como Python se comunica con la web
+- **Nivel Avanzado** — desarrollo web con FastAPI: servidor, rutas, plantillas HTML y proyecto final completo
 
 ---
 
 ## Para quien es esto
 
 - Jovenes de 12 a 17 anos participantes de Technovation Girls
-- No necesitas experiencia previa en programacion
-- Solo necesitas curiosidad y ganas de aprender
+- No necesitas experiencia previa en programacion ni en desarrollo web
+- Solo necesitas curiosidad y ganas de crear
 
 ---
 
@@ -28,7 +28,7 @@ El contenido esta organizado en tres niveles progresivos:
 
 ### Nivel Basico — Fundamentos de Python
 
-Las primeras 8 guias te dan todo lo que necesitas saber de Python antes de pasar al desarrollo web. No se necesita experiencia previa.
+Las primeras 8 guias te dan todo lo que necesitas saber de Python antes de pasar al desarrollo web. No se necesita experiencia previa en programacion.
 
 ```
 guias/
@@ -42,9 +42,9 @@ guias/
 +-- 08_modulos_y_librerias.md          # import, pip, libreria estandar
 ```
 
-### Nivel Intermedio — Hacia el Desarrollo Web
+### Nivel Intermedio — Desarrollo Web: HTML, CSS y APIs
 
-Aqui amplias tu conocimiento de Python e introduces los conceptos fundamentales de la web: HTML, CSS y como Python se comunica con servicios externos.
+Aqui aprendes a construir paginas web con HTML y CSS, a crear formularios interactivos y a conectar tu aplicacion con servicios externos mediante APIs.
 
 ```
 guias/
@@ -56,9 +56,9 @@ guias/
 +-- 14_consumir_apis.md                # requests, JSON, APIs publicas
 ```
 
-### Nivel Avanzado — Aplicaciones Web con FastAPI
+### Nivel Avanzado — Aplicaciones Web Completas con FastAPI
 
-Con todo lo anterior puedes construir tu propia aplicacion web. Estas guias te llevan desde un servidor basico hasta una app completa con interfaz HTML/CSS y logica en Python.
+Con todo lo anterior puedes construir y publicar tu propia aplicacion web. Estas guias te llevan desde un servidor basico hasta una app completa con interfaz HTML/CSS, logica en Python y datos reales.
 
 ```
 guias/
@@ -101,28 +101,30 @@ recursos/
 1. Elige tu entorno en [Como Instalar Python](recursos/como_instalar_python.md) (Replit es lo mas rapido)
 2. Comienza con la [Guia 01 — Introduccion a Python](guias/01_introduccion_a_python.md)
 3. Sigue las guias del Nivel Basico en orden, del 01 al 08
-4. Cuando termines el Nivel Basico, continua con las guias del Nivel Intermedio
+4. Cuando termines el Nivel Basico, continua con las guias del Nivel Intermedio para aprender HTML, CSS y APIs
+5. Completa el Nivel Avanzado para construir tu primera aplicacion web real
 
 **Si ya sabes Python pero quieres aprender desarrollo web:**
 
-- Salta directamente al [Nivel Intermedio](#nivel-intermedio--hacia-el-desarrollo-web) desde la guia 09
+- Salta directamente al [Nivel Intermedio](#nivel-intermedio--desarrollo-web-html-css-y-apis) desde la guia 09
 
-**Si ya conoces HTML/CSS y quieres construir una app con Python:**
+**Si ya conoces HTML/CSS y quieres construir una app web con Python:**
 
-- Ve directo al [Nivel Avanzado](#nivel-avanzado--aplicaciones-web-con-fastapi) desde la guia 15
+- Ve directo al [Nivel Avanzado](#nivel-avanzado--aplicaciones-web-completas-con-fastapi) desde la guia 15
 
 ---
 
 ## Conexion con Technovation Girls
 
-Technovation Girls es un programa global que invita a jovenes a resolver problemas de su comunidad usando tecnologia. La programacion es una herramienta poderosa para ese objetivo.
+Technovation Girls es un programa global que invita a jovenes a resolver problemas de su comunidad usando tecnologia. Construir aplicaciones web es una de las habilidades mas poderosas que puedes desarrollar para ese objetivo.
 
 En este repositorio encontraras ejercicios y proyectos que te ayudaran a:
 
-- Entender como funciona el codigo detras de las apps
-- Automatizar tareas y procesar informacion
-- Dar forma a las ideas de tu equipo en codigo real
-- Prepararte para el desarrollo de tu aplicacion movil o web
+- Entender como funciona el codigo detras de las apps web
+- Crear paginas y formularios interactivos con HTML y CSS
+- Conectar tu aplicacion con datos e informacion del mundo real mediante APIs
+- Construir y publicar una aplicacion web completa con Python
+- Prepararte para el desarrollo de tu proyecto de Technovation
 
 ---
 
@@ -173,4 +175,4 @@ El contenido de este repositorio esta disponible bajo la licencia [MIT](LICENSE)
 
 ---
 
-Hecho con entusiasmo para futuras programadoras y creadoras de tecnologia.
+Hecho con entusiasmo para futuras desarrolladoras web y creadoras de tecnologia.

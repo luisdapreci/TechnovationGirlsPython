@@ -1,4 +1,4 @@
-# CLAUDE.md — AI Assistant Guide for TechnovationGirlsPython
+# CLAUDE.md — AI Assistant Guide for TechnovationGirlsWebApps
 
 This file provides context for AI assistants working on this repository.
 
@@ -6,12 +6,12 @@ This file provides context for AI assistants working on this repository.
 
 ## Project Overview
 
-**TechnovationGirlsPython** is a Spanish-language educational resource repository for the [Technovation Girls](https://technovationchallenge.org/) program. It teaches Python programming — from absolute fundamentals to building real web applications — to students ages 12–17 with no prior experience. All written content is in **Spanish**, with English used only for technical keywords (e.g., `print`, `input`, `if`, `for`).
+**TechnovationGirlsWebApps** is a Spanish-language educational resource repository for the [Technovation Girls](https://technovationchallenge.org/) program. It teaches web application development — from Python fundamentals through building and deploying real web apps — to students ages 12–17 with no prior experience. All written content is in **Spanish**, with English used only for technical keywords (e.g., `print`, `input`, `if`, `for`).
 
 The curriculum is organized in **three progressive levels**:
 - **Nivel Basico** — Python fundamentals (Guides 01–08)
-- **Nivel Intermedio** — OOP, HTML, CSS, HTTP, and APIs (Guides 09–14)
-- **Nivel Avanzado** — Web development with FastAPI (Guides 15–19)
+- **Nivel Intermedio** — HTML, CSS, forms, HTTP, and APIs (Guides 09–14)
+- **Nivel Avanzado** — Full web application development with FastAPI (Guides 15–19)
 
 **Repository type:** Documentation-only (Markdown guides). No runnable source code, no tests, no build system.
 
@@ -20,7 +20,7 @@ The curriculum is organized in **three progressive levels**:
 ## Repository Structure
 
 ```
-TechnovationGirlsPython/
+TechnovationGirlsWebApps/
 ├── README.md                          # Project overview and learning path
 ├── CLAUDE.md                          # This file
 ├── guias/                             # 19 sequential learning guides (3 levels)
