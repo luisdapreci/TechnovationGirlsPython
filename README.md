@@ -69,6 +69,18 @@ guias/
 +-- 19_proyecto_web_completo.md        # App funcional: FastAPI + HTML + CSS
 ```
 
+### Ejercicios integradores
+
+Proyectos que combinan todos los conceptos de un nivel. Cada ejercicio incluye
+un archivo Markdown con instrucciones detalladas y un archivo `.py` con el codigo
+de arranque listo para completar.
+
+```
+ejercicios/
++-- nivel_basico_proyecto_final.md     # Instrucciones del proyecto final del Nivel Basico
++-- nivel_basico_proyecto_final.py     # Codigo de arranque con TODOs para completar
+```
+
 ### Recursos y apoyo
 
 ```
